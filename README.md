@@ -1,2 +1,2 @@
 # coding-practice
-My daily coding practice from GeeksforGeeks
+My daily coding practice
